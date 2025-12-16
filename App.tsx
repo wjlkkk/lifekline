@@ -444,6 +444,7 @@ const App: React.FC = () => {
       <footer className="w-full bg-gray-900 text-gray-400 py-8 mt-auto no-print">
         <div className="max-w-7xl mx-auto px-4 text-center text-sm">
           <p>&copy; {new Date().getFullYear()} 人生K线 | 仅供娱乐与文化研究，请勿迷信</p>
+          <p>本项目源码由 <a href="https://x.com/0xsakura666" className="text-white hover:text-gray-300">0xSakura樱花</a> 开发，<a href="https://x.com/wang_jl80536" className="text-white hover:text-gray-300">0xWang健林</a>二次开发</p>
         </div>
       </footer>
     </div>
